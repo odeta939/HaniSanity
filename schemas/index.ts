@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import cv from "./cv"
+export const schemaTypes = [cv]
